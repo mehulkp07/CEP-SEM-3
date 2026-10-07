@@ -464,7 +464,12 @@ function renderHomePage() {
                   Call 020-2437 2020
                 </a>
                 <a href="${aadharCenter.googleMapsUrl}" target="_blank" rel="noopener" class="btn btn-secondary btn-sm" style="flex: 1; justify-content: center;">
-                       <!-- Bharati Vidyapeeth Medical College Blood Centre Card -->
+                  Directions ↗
+                </a>
+              </div>
+            </div>
+
+            <!-- Bharati Vidyapeeth Medical College Blood Centre Card -->
             <div class="spotlight-card featured-bvdu">
               <div style="display: flex; justify-content: space-between; align-items: flex-start;">
                 <span class="spotlight-badge" style="background:#fff7ed; color:#c2410c;">Katraj BVDU Campus</span>
